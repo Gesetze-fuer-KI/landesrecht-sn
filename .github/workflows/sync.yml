@@ -29,7 +29,8 @@ concurrency:
 
 jobs:
   sync:
-    runs-on: ubuntu-latest
+    # Our own runner on notefeed-1 (github-runner), one job at a time; Brandenburg runs last, it takes hours.
+    runs-on: [self-hosted, gesetze]
     timeout-minutes: 350
     env:
       KUMA_PUSH_URL: ${{ secrets.KUMA_PUSH_URL }}
