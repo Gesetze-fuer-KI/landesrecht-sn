@@ -1,4 +1,6 @@
-Sachsen Stand 2026-10-30: 0 geändert, 0 neu, 0 entfernt
+Sachsen Stand 2026-10-31: 1 geändert, 1 neu, 0 entfernt
 
+- StrPrüfVO: Fassung gültig ab 31.10.2026
+- neu: WbAnerkVO (Verordnung des Sächsischen Staatsministeriums für Wirtschaft, Arbeit, Energie und Klimaschutz über die Anerkennung von Weiterbildungsveranstaltungen im Rahmen des Sächsischen Qualifizierungszeitgesetzes)
 
 Nicht abrufbar (3): sn-20871, sn-20882, sn-20920
