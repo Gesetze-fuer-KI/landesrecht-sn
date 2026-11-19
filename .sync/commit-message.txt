@@ -1,4 +1,5 @@
-Sachsen Stand 2026-11-18: 0 geändert, 0 neu, 0 entfernt
+Sachsen Stand 2026-11-19: 0 geändert, 0 neu, 1 entfernt
 
+- entfernt: sn-1818
 
 Nicht abrufbar (3): sn-20871, sn-20882, sn-20920
