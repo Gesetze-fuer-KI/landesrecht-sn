@@ -1,47 +1,4 @@
-Sachsen Stand 2026-11-21: 39 geändert, 3 neu, 1 entfernt
+Sachsen Stand 2026-11-22: 0 geändert, 0 neu, 0 entfernt
 
-- SächsBeurtVO: Fassung gültig ab 21.11.2026
-- 1826: Fassung gültig ab 21.11.2026
-- DVOGefHundG: Fassung gültig ab 21.11.2026
-- LJAVO: Fassung gültig ab 21.11.2026
-- SächsHLeistBezVO: Fassung gültig ab 21.11.2026
-- SchiedKrPflV: Fassung gültig ab 21.11.2026
-- SächsKomKBVO: Fassung gültig ab 21.11.2026
-- 4721: Fassung gültig ab 21.11.2026
-- SächsHafVO: Fassung gültig ab 21.11.2026
-- SächsGfbWBVO: Fassung gültig ab 21.11.2026
-- Kleinkläranlagenverordnung: Fassung gültig ab 21.11.2026
-- SächsNKRG: Fassung gültig ab 21.11.2026
-- SächsAAKVO: Fassung gültig ab 21.11.2026
-- SächsEigBVO: Fassung gültig ab 21.11.2026
-- SächsWeinRDVO: Fassung gültig ab 21.11.2026
-- SächsSchiedsPflegeVersVO: Fassung gültig ab 21.11.2026
-- SächsTierarztWÖVetVO: Fassung gültig ab 21.11.2026
-- SächsHFKVO: Fassung gültig ab 21.11.2026
-- SchiedJugVO: Fassung gültig ab 21.11.2026
-- SächsFAssVO: Fassung gültig ab 21.11.2026
-- AOJwD: Fassung gültig ab 21.11.2026
-- SächsBhVO: Fassung gültig ab 21.11.2026
-- SächsSozSchiedsVO: Fassung gültig ab 21.11.2026
-- SächsPflUVO: Fassung gültig ab 21.11.2026
-- HSDAVO: Fassung gültig ab 21.11.2026
-- SächsBergMarkAPO: Fassung gültig ab 21.11.2026
-- EinglSchiedsVO: Fassung gültig ab 21.11.2026
-- SächsLSchiedRehaVO: Fassung gültig ab 21.11.2026
-- SächsLStipVO: Fassung gültig ab 21.11.2026
-- WrWBauPrüfVO: Fassung gültig ab 21.11.2026
-- SächsÖKontrVO: Fassung gültig ab 21.11.2026
-- SächsPsychPbGAGDVO: Fassung gültig ab 21.11.2026
-- SächsAPOArchiv: Fassung gültig ab 21.11.2026
-- SächsBörsDVO: Fassung gültig ab 21.11.2026
-- SächsFischVO: Fassung gültig ab 21.11.2026
-- SächsWTVO: Fassung gültig ab 21.11.2026
-- SächsPflAFoG: Fassung gültig ab 01.02.2026
-- SächsPflBSchiedVO: Fassung gültig ab 01.02.2026
-- SächsPflBGUmVO: Fassung gültig ab 01.02.2021
-- neu: GVAPVO (Verordnung des Sächsischen Staatsministeriums der Justiz über die Ausbildung und Prüfung der Gerichtsvollzieherinnen und Gerichtsvollzieher)
-- neu: QZEntErstVO (Verordnung des Sächsischen Staatsministeriums für Wirtschaft, Arbeit, Energie und Klimaschutz zur Erstattung des Qualifizierungszeitentgelts)
-- neu: HeilbZuG (Gesetz über den Vollzug des Berufsrechts der akademischen Heilberufe und der Gesundheitsfachberufe sowie der arzneimittel- und apothekenrechtlichen Vorschriften)
-- entfernt: sn-1714
 
 Nicht abrufbar (3): sn-20871, sn-20882, sn-20920
